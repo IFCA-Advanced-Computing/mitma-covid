@@ -1,0 +1,21 @@
+property,value
+title,Mapa de movilidad España (estudio MITMA)
+description,
+source.name,Estudio de movilidad con Big Data
+source.url,https://www.mitma.gob.es/ministerio/covid-19/evolucion-movilidad-big-data
+createdBy.name,Instituto de Física de Cantabria
+createdBy.email,iheredia@ifca.unican.es
+createdBy.url,https://ifca.unican.es/
+mapbox.accessToken,
+mapbox.mapStyle,
+colors.scheme,Default
+colors.darkMode,yes
+animate.flows,no
+clustering,yes
+flows.sheets,flows
+msg.locationTooltip.incoming,Llegadas
+msg.locationTooltip.outgoing,Salidas
+msg.locationTooltip.internal,Viajes internos
+msg.flowTooltip.numOfTrips,Número de viajes
+msg.totalCount.allTrips,{0} viajes
+msg.totalCount.countOfTrips,{0} de {1} viajes
