@@ -1,3 +1,8 @@
+pandas
+tqdm
+click
+requests
+
 # local package
 -e .
 
