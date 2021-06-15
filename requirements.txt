@@ -1,4 +1,5 @@
 pandas
+xlrd
 tqdm
 click
 requests
